@@ -17,9 +17,9 @@
 
 # Реализованы алгоритмы 
 
-  * XOR
-  * AES-ECB
-  * AES-CTR
+  * `xorshift32`
+  * `AES-ECB`
+  * `AES-CTR`
     
 # Команды запуска    
 
