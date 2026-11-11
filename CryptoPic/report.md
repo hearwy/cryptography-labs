@@ -212,15 +212,15 @@
 
   * Исходное изображение
     
-    ![pika](./imgs/pickachu.png)
+    ![pika](./imgs/pikachu.png)
     
   * `AES-ECB`
     
-    ![pika_ecb](./imgs/pickachu_enc_ecb.png)
+    ![pika_ecb](./imgs/pikachu_enc_ecb.png)
     
   * `AES-CTR`
     
-    ![pika_ctr](./imgs/pickachu_enc_ctr.png)
+    ![pika_ctr](./imgs/pikachu_enc_ctr.png)
 
 `NPCR`/`UACI` для эксперимента с ключом с помощью `AES-CTR`
 
