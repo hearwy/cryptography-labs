@@ -213,6 +213,10 @@
   * Исходное изображение
     
     ![pika](./imgs/pikachu.png)
+
+  * `XOR`
+    
+    ![pika_xor](./imgs/pikachu_enc_xor.png)
     
   * `AES-ECB`
     
