@@ -1,0 +1,5 @@
+{
+  "algorithm": "aes-ctr",
+  "source": "pikachu.png",
+  "nonce": "a65daaf6fd317b68112c0d4a0b46b47c"
+}
