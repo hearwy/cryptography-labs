@@ -43,7 +43,7 @@
       embed_lsb_plain(
         cover_path="imgs/cover.png",
         stego_path="imgs/stego_plain.png",
-        message="хрумки",
+        message="hrumki",
       )
   ```
 
@@ -56,7 +56,7 @@
       embed_lsb_encrypted(
           cover_path="imgs/cover.png",
           stego_path="imgs/stego_encrypted.png",
-          message="хрумки",
+          message="hrumki",
           password="ggwp",
       )
 
@@ -64,7 +64,7 @@
       embed_lsb_random(
           cover_path="imgs/cover.png",
           stego_path="imgs/stego_random.png",
-          message="хрумки",
+          message="hrumki",
           password="ggwp",
       )
   ```
